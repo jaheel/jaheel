@@ -1,9 +1,9 @@
-### Hey, alex there 👋
+### Hey, Alex there 👋
 
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaheel&show_icons=true&theme=synthwave">
 
 
-I'm **Xu** **Fanxin**, a postgraduate from Chengdu, China.
+I'm **Xu** **Fanxin**, a postgraduate from Chongqing, China.
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -11,9 +11,9 @@ I'm **Xu** **Fanxin**, a postgraduate from Chengdu, China.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Artificial Intelligence at Southwest Minzu University and coding stuffs.
+- 🎓 &nbsp; Studying Artificial Intelligence at Chongqing University of Posts and Telecommunications.
 
-- 🌱 &nbsp; Learning about Machine Learning, Computer Vision.
+- 🌱 &nbsp; Learning about Machine Learning, Granular Computing.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
