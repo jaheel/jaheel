@@ -3,7 +3,7 @@
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaheel&show_icons=true&theme=synthwave">
 
 
-I'm **Xu** **Fanxin**, a postgraduate from Chongqing, China.
+I'm **Xu** **Fanxin**, a PhD candidate from Chongqing, China.
 
 <h3> 👨🏻•💻 About Me </h3>
 
